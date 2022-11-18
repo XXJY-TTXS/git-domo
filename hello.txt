@@ -16,5 +16,7 @@ heiio git!
 heiio git!
 heiio git!
 heiio git!
+<<<<<<< HEAD
 heiio git! master test
-heiio git!
+
+>>>>>>> hot-fix
